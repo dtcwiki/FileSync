@@ -12,7 +12,8 @@
 ---
 
 ### Program Main Interface:
-![FileSync Main Interface](https://github.com/user-attachments/assets/c17a08ed-9dc3-4ff1-84a1-0a433a6e7e33)
+![屏幕截图 2024-12-22 110847](https://github.com/user-attachments/assets/046ad42b-546b-4eb7-967b-d34869ad2bbe)
+
 
 ---
 
@@ -45,7 +46,8 @@ For more information, visit: [https://dtcwiki.com](https://dtcwiki.com)
 ---
 
 ### 程序主界面:
-![FileSync 主界面](https://github.com/user-attachments/assets/c17a08ed-9dc3-4ff1-84a1-0a433a6e7e33)
+![屏幕截图 2024-12-22 110847](https://github.com/user-attachments/assets/2417d793-822e-4809-8b1a-0b9181ed4890)
+
 
 ---
 
