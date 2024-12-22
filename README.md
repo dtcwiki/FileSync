@@ -1,3 +1,4 @@
+ENGLISH/中文
 # FileSync - A Free and Open Source File Synchronization Software
 
 **License**: MIT LICENSE
