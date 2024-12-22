@@ -1,4 +1,3 @@
-ENGLISH/中文
 # FileSync - A Free and Open Source File Synchronization Software
 
 **License**: MIT LICENSE
@@ -32,6 +31,43 @@ Feel free to submit an [Issue](https://github.com/user-attachments/issues) or [P
 For more information, visit: [https://dtcwiki.com](https://dtcwiki.com)
 
 ---
+# FileSync - 免费开源的文件同步软件
+
+**许可证**: MIT LICENSE
+
+---
+
+### 特性:
+- **GUI界面**: 用户可以通过直观的图形界面轻松创建同步任务。
+- **自动监控**: 利用哈希表自动监控文件夹变化，并定时将文件同步到远程服务器。
+- **协议支持**: 支持 **SFTP**、**FTP** 和 **WEBDAV** 协议。
+
+---
+
+### 程序主界面:
+![FileSync 主界面](https://github.com/user-attachments/assets/c17a08ed-9dc3-4ff1-84a1-0a433a6e7e33)
+
+---
+
+### 安装与使用:
+1. 从 [GitHub Releases 页面](https://github.com/user-attachments/releases) 下载压缩包。
+2. 解压文件并运行 `FileSync.exe` 即可开始使用。
+
+---
+
+### 贡献:
+欢迎提交 [Issue](https://github.com/user-attachments/issues) 或 [Pull Request](https://github.com/user-attachments/pull-requests)。
+
+---
+
+### 联系作者:
+更多信息，请访问: [https://dtcwiki.com](https://dtcwiki.com)
+
+---
+
+### GitHub 统计信息:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtcwiki)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtcwiki)](https://github.com/anuraghazra/github-readme-stats)
