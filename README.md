@@ -18,7 +18,7 @@
 ---
 
 ### Installation & Usage:
-1. Download the compressed package from the [GitHub Releases page](https://github.com/user-attachments/releases).
+1. Download the compressed package from the [GitHub Releases page](https://github.com/dtcwiki/FileSync/releases).
 2. Extract the package and run `FileSync.exe` to get started.
 
 ---
@@ -52,7 +52,7 @@ For more information, visit: [https://dtcwiki.com](https://dtcwiki.com)
 ---
 
 ### 安装与使用:
-1. 从 [GitHub Releases 页面](https://github.com/user-attachments/releases) 下载压缩包。
+1. 从 [GitHub Releases 页面](https://github.com/dtcwiki/FileSync/releases) 下载压缩包。
 2. 解压文件并运行 `FileSync.exe` 即可开始使用。
 
 ---
