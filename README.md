@@ -24,7 +24,7 @@
 ---
 
 ### Contributions:
-Feel free to submit an [Issue](https://github.com/user-attachments/issues) or [Pull Request](https://github.com/user-attachments/pull-requests).
+Feel free to submit an [Issue](https://github.com/dtcwiki/FileSync/issues) or [Pull Request](https://github.com/dtcwiki/FileSync/pull-requests).
 
 ---
 
@@ -58,7 +58,7 @@ For more information, visit: [https://dtcwiki.com](https://dtcwiki.com)
 ---
 
 ### 贡献:
-欢迎提交 [Issue](https://github.com/user-attachments/issues) 或 [Pull Request](https://github.com/user-attachments/pull-requests)。
+欢迎提交 [Issue](https://github.com/dtcwiki/FileSync/issues) 或 [Pull Request](https://github.com/dtcwiki/FileSync/pull-requests)。
 
 ---
 
