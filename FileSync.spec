@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['C:\\Users\\cangz\\Documents\\sync\\main.py'],
+    ['C:\\Users\\user\\Documents\\sync\\main.py'],
     pathex=[],
     binaries=[],
     datas=[('gui/icons', 'gui/icons')],
